@@ -1,0 +1,299 @@
+.experienceCenter{
+	width:100%;
+	position: relative;
+	overflow: hidden;
+	/*height: auto;*/
+	margin-bottom: 350px;
+	background: #FFFFFF;
+}
+.shop{
+	width: 90%;
+	margin: auto;
+	/*height: auto;*/
+}
+.shopSelect{
+	height: 100px;
+	width: 100%;
+	margin: 10px 0px;
+	display: inline-block;
+	
+	
+}
+.shopSelect h2{
+	font-size: 24px;
+    color: #333;
+    padding-bottom: 20px;
+   display: inline-block;
+   
+   
+}
+.shopSelect h4{
+	display: inline-block;
+	font-size: 16px;
+	margin-top: 30px;
+}
+.shopSelect a{
+	text-decoration: none;
+	
+	
+}
+.dropdown{
+	display: inline-block;
+	
+}
+
+.dropdown .select{
+	
+    border: 1px #eaeaea solid;
+    display: inline-block;
+    vertical-align: middle;
+    background: #fff;
+    position: relative;
+    height: 34px;
+    border-radius: 3px;
+  
+   
+}
+.btn-group{
+	    position: relative;
+	    display: inline-block;
+	    vertical-align: middle;
+	  
+}
+.leaddown{
+	width: 20px;
+	height:20px;
+	top: 14px;
+	left: 10px;
+	display: inline-block;
+	overflow: hidden;
+	background-image: url("../img/exper-icon.png");
+	background-position: -128px -52px;;
+	background-repeat: no-repeat;
+	
+	
+}
+.form-group .form-control{
+	width: 208px;
+	height: 36px;
+	display: inline-block;
+	/*overflow: hidden;*/
+	
+	
+}
+.form-group {
+    margin-bottom: 15px;
+    float: right;
+    margin-top: 18px;
+    /*overflow: hidden;*/
+    
+}
+.search{
+	width: 36px;
+	height:36px;
+	top: 14px;
+	left: 10px;
+	display: inline-block;
+	background-image: url(../img/shop-search.png);
+	background-repeat: no-repeat;
+	/*overflow: hidden;*/
+}
+.shopDetails{
+	width: 100%;
+	height: 600px;
+	background: #FFFFFF;
+	margin-top: auto;
+	position: relative;
+}
+/*.shopDetails ul li{
+	position: absolute;
+}*/
+.shopName{
+	position: absolute;
+	 top: -5px;
+    left: 325px;
+    color: #333;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.star{
+	position: absolute;
+	background-image: url("../img/exper-star.jpg");
+	background-position: 0px -70px;
+    background-repeat: no-repeat;
+    height: 14px;
+    width: 80px;
+    top: 35px;
+    left: 326px;
+
+}
+.address{
+	position: absolute;
+	background-image: url("../img/exper-icon.png");
+    background-position: -68px -60px;
+    background-repeat: no-repeat;
+    height: 17px;
+    width: 50px;
+    top: 65px;
+    left: 295px;
+    display: inline-block;
+
+}
+.addressDetails{
+    font-size: 14px;
+    position: absolute;
+    top: 63px;
+    left: 350px;
+    color:#8C8C8C;
+}
+.phoneImg{
+	position: absolute;
+	background-image: url("../img/exper-icon.png");
+    background-position: -68px -90px;
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 50px;
+    top: 135px;
+    left: 295px;
+    display: inline-block;
+}
+.phoneNum{
+	font-size: 14px;
+    position: absolute;
+    top: 137px;
+    left: 355px;
+    color:#8C8C8C;
+}
+.shopDetails ul li{
+	margin-bottom: 70px;
+}
+.staractivity{
+	width: 100%;
+	height:auto;
+	position: relative;
+	display: inline-block;
+	margin-top: -40px;
+}
+.diandian{
+	width: 100%;
+	height: 10px;
+	text-align: center;
+	/*background: red;*/
+	display: inline-block;
+	position: relative;
+}
+.current{
+	background: #008cd6;
+	width: 10px;
+	height: 10px;
+	overflow: hidden;
+	border-radius: 100%;
+	text-align: center;
+	display: inline-block;
+}
+.activityName{
+	position: absolute;
+	 top: -5px;
+    left: 355px;
+    color: #333;
+    text-decoration: none;
+    font-size: 16px;
+}
+.address1{
+    position: absolute;
+    background-image: url(../img/exper-icon.png);
+    background-position: -65px -60px;
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 50px;
+    top: 40px;
+    left: 323px;
+    display: inline-block;
+}
+.address1Details{
+	font-size: 14px;
+    position: absolute;
+    top: 38px;
+    left: 380px;
+    color:#8C8C8C;
+}
+.time{
+	position: absolute;
+    background-image: url(../img/exper-icon.png);
+    background-position: -130px 0px;
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 17px;
+    top: 70px;
+    left: 357px;
+    display: inline-block;
+}
+.timeNum{
+	font-size: 14px;
+    position: absolute;
+    top: 68px;
+    left: 380px;
+    color:#8C8C8C;
+}
+.activityImg{
+	position: absolute;
+    background-image: url(../img/exper-icon.png);
+    background-position: -130px -29px;
+    background-repeat: no-repeat;
+    height: 20px;
+    width: 17px;
+    top: 100px;
+    left: 357px;
+    display: inline-block;
+}
+.activityDetails{
+	font-size: 14px;
+    position: absolute;
+    top: 100px;
+    left: 380px;
+    color:#8C8C8C;
+}
+.look{
+	display: inline-block;
+	background-color: #008cd6;
+	width: 160px;
+	height: 40px;
+	margin-top: 30px;
+	border-radius: 5px;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 40px;
+}
+/*.distance{
+	margin-top: 60px;
+}*/
+.staractivity ul li{
+	margin-top: 50px;
+}
+.functionS{
+	width: 100%;
+	height: 300px;
+	position: relative;
+	margin-top: 30px;
+	margin-bottom: 60px;
+	}
+.functionName{
+	color: #333;
+	font-size: 16px;
+	text-align: center;
+}
+.functionS ul li a{
+	text-decoration: none;
+	color: #666;
+	cursor: pointer;
+}
+.functionTYy{
+	position: absolute;
+	top: 250px;
+    left: 15px;
+}
+.functionS ul li a img:hover{
+	opacity: 0.7;
+	transition: all .5s ease-in-out;
+}
